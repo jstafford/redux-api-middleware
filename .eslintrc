@@ -10,7 +10,7 @@
     "modules": true
   },
   "rules": {
-    "babel/arrow-parens": [2, "always"],
+    "arrow-parens": [2, "always"],
     "no-underscore-dangle": 0,
     "strict": [2, "global"],
     "eqeqeq": [2, "smart"],

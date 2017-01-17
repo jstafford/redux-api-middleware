@@ -1,7 +1,4 @@
 {
-  "stage": 0,
-  "loose": "all",
-  "optional": [
-    "runtime"
-  ]
+  "plugins": ["transform-object-rest-spread"],
+  "presets": ["env"]
 }
